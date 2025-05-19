@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! I'm Yousef Adel</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Embedded+Software+Engineer;Frontend+Developer+-+React;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Embedded+Software+Engineer;Frontend+Developer+-+React;STM32%2C+ATmega32%2C+C+Developer" alt="Typing SVG" />
 </p>
 
 ---
@@ -50,7 +50,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Proteus-1C79B3?style=for-the-badge&logo=proteus&logoColor=white" />
-  <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" />
 </p>
 
 ---
