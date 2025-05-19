@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! I'm Yousef Adel</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Embedded+Systems+Engineer;Frontend+Developer+-+React;IoT+Enthusiast;STM32%2C+ESP8266%2C+Arduino+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Embedded+Software+Engineer;Frontend+Developer+-+React;STM32%2C+ATmega32%2C+C+Developer" alt="Typing SVG" />
 </p>
 
 ---
@@ -16,9 +16,9 @@
 
 - 🎓 Pursuing B.Sc. in Computer and Systems Engineering at Zagazig University (GPA: 3.0/4.0)
 - 💼 Experience in medical and industrial embedded control systems development
-- 🌐 Frontend Developer skilled in React and modern web technologies
+- 🖥️ Frontend Developer skilled in React and modern web technologies
 - 🏆 Trained at Information Technology Institute (ITI) for Frontend Development
-- 🔍 Interested in building efficient embedded solutions and responsive web interfaces
+- 🔍 Specialized in building efficient embedded solutions and responsive web interfaces
 
 ---
 
@@ -28,8 +28,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+  <img src="https://img.shields.io/badge/ATmega32-ED1C24?style=for-the-badge&logo=microchip&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESP8266-000000?style=for-the-badge&logo=espressif&logoColor=white" />
   <img src="https://img.shields.io/badge/RTOS-009688?style=for-the-badge&logo=RTOS&logoColor=white" />
   <img src="https://img.shields.io/badge/Embedded_C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
 </p>
@@ -49,8 +49,8 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Proteus-1C79B3?style=for-the-badge&logo=proteus&logoColor=white" />
+  <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" />
 </p>
 
 ---
@@ -69,6 +69,10 @@
 - **High Frequency Inverter**
   - Designed power electronics system using STM32 microcontrollers
   - Created efficient power conversion solutions
+
+- **Secure Authentication System**
+  - Implemented secure data storage with EEPROM
+  - Developed robust authentication protocols for embedded applications
 
 ### Web Development Projects
 - **[Arsha Website](https://yousefadel8.github.io/Arsha1/)**
