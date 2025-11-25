@@ -192,16 +192,6 @@ Contemporary landing page featuring advanced CSS animations and modern design pa
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-  
-[![Yousef's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YousefAdel8&custom_title=Yousef's%20Contribution%20Graph&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area_color=F8D866&area=true&hide_border=true)](https://github.com/YousefAdel8)
-
-</div>
-
----
-
 ## 💭 Random Dev Quote
 
 <div align="center">
